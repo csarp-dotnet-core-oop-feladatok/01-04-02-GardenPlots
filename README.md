@@ -25,3 +25,5 @@ A kert két parcellából áll:
 A 10x15 méretekkel adott parcella területe xx.xx négyzetméter.    
 A 10x6 méretekkel adott parcella területe xx.xx négyzetméter.    
 Mária kertjének összterülete xx.xx négyzetméter.    
+
+[A téglalap területképlete.](http://www.amatematika.hu/a_teglalap_es_a_negyzet)
